@@ -1,9 +1,10 @@
-package com.anelemhalnga.timerapp
+package com.anelemhlanga.timerapp.views
 
 import android.content.Intent
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
 import android.os.Handler
+
 
 class LandingActivity : AppCompatActivity() {
 
@@ -13,7 +14,7 @@ class LandingActivity : AppCompatActivity() {
 
 
         Handler().postDelayed({
-            val intent = Intent(this, MainActivity::class.java)
+            val intent = Intent(this, TimerActivity::class.java)
             startActivity(intent);
 
         }, 3000);
