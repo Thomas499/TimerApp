@@ -5,7 +5,8 @@ import android.content.Context
 import android.content.Intent
 import com.anelemhlanga.timerapp.Util.Notification
 import com.anelemhlanga.timerapp.Util.PrefUtil
-import com.anelemhalnga.timerapp.views.TimerActivity
+import com.anelemhlanga.timerapp.views.TimerActivity
+
 
 class TimerExpiredReceiver : BroadcastReceiver() {
 

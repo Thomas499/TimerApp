@@ -3,10 +3,11 @@ package com.anelemhlanga.timerapp.receivers
 import android.content.BroadcastReceiver
 import android.content.Context
 import android.content.Intent
-import com.anelemhalnga.timerapp.Util.AppConstants
-import com.anelemhalnga.timerapp.Util.Notification
-import com.anelemhalnga.timerapp.Util.PrefUtil
-import com.anelemhalnga.timerapp.views.TimerActivity
+import com.anelemhlanga.timerapp.Util.AppConstants
+import com.anelemhlanga.timerapp.Util.Notification
+import com.anelemhlanga.timerapp.Util.PrefUtil
+import com.anelemhlanga.timerapp.views.TimerActivity
+
 
 class TimerNotificationActionReceiver : BroadcastReceiver() {
 
