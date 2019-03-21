@@ -12,9 +12,8 @@ Timer in Android built in Kotlin
 <img src="art/1.png" width="25%" />
 <img src="art/2.png" width="25%" />
 <img src="art/3.png" width="25%" />
-<img src="art/4.png" width="25%" />
 
 ## Tools and Technologies
-Kotlin
-Material Seekbar
+* Kotlin
+* Material Seekbar
 
